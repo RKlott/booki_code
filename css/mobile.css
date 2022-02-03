@@ -1,0 +1,308 @@
+@media all and (max-width: 768px){
+
+    html, body {
+        overflow-x: hidden;
+      }
+
+      #lpp{
+          margin-top: 20px;
+      }
+
+      
+    body{
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+        position: relative;
+        align-items: center;
+        box-sizing: border-box;
+    }
+
+    #chart_id{
+        padding: 0px;
+        padding-top: 25px;
+        margin-left: 80px;
+        
+    }
+
+    #low_header_txt{
+        padding-left: 7%;
+        padding-top: 30px;
+    }
+
+  
+    #heber_populaire{
+        width: auto;
+        display: flex;
+        margin: 0px;
+        margin-top: 5%;
+        border-radius: 0%;
+        flex-direction: column;
+       
+    }
+
+    #hebergements{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #search{
+        display: inline;
+    }
+
+    .searchBar{
+        padding-left: 19%;
+    }
+
+    #bouton{
+        border-radius: 17px;
+        padding: 17px;
+        margin-left: -12px;
+    }
+
+    #location{
+        border-radius: 17px;
+        padding: 17px;
+        padding-bottom: 19px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+    }
+
+
+    #h3f{
+        margin: 0px;
+        padding-left: 60px;
+        padding-top: 20px;
+    }
+
+    .filters_butons{
+
+        display: flex;
+        margin: 0px;
+        flex-wrap: wrap;
+        padding-right: 14px;
+
+    }
+
+    #eco_logo, #fam_logo, #rom_logo, #pets_logo{
+        margin-right: 10px;
+    }
+
+
+
+
+    #info_txt{
+        margin: 0px;
+        margin-left: 2%;
+        margin-top: 5%;
+       font-size: 15px;
+       text-align: left;
+    }
+
+    #info_icon{
+        margin-right: 8px;
+        margin-left: 3px;
+    }
+
+    #filters_b, .filters_butons{
+        margin: 0px;
+    }
+    #texte_rechercher{
+        display: none;
+    }
+
+    #filters{
+        margin-right: 0px;
+        flex-direction: column;
+
+
+
+    }
+
+    #ac_encarts figure{
+        width: 344px;
+        height: 200px;
+    }
+
+    #ac_encarts img{
+        width: 344px;
+        height: 148px;
+        margin-bottom: 0px;
+    }
+
+    #ac_encarts figcaption{
+        line-height: 52px;
+        width: 344px;
+        height: 43px;
+    }
+
+    /*taille des encarts et des images*/
+    /*bloc hebergements à marseille*/
+    #encarts figure{
+        width: 344px;
+        height: 220px;
+    }
+
+    #encarts img{
+        width: 344px;
+        height: 130px;
+        margin-bottom: 0px;
+    }
+
+    #encarts figcaption {
+        width: 344px;
+        height: 60px;
+    }
+    /*fin bloc hebergements à marseille*/
+
+
+
+    #pop_encarts{
+        margin: 0%;
+        margin-top: 85px;
+        margin-left: -5%;
+    }
+
+    #pop_encarts figure{
+        width: 346px;
+
+        height: 145px;
+    }
+
+    #pop_encarts img{
+        width: 142px;
+        height: 143px;
+    }
+
+    #pop_encarts figcaption{
+        width: 232px;
+        height: 143px;
+    }
+
+    .main{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .bloc_hebergement_populaire{
+        margin: 0px;
+    }
+
+    .bloc_hebergement_populaire:first-child{
+        order: 2;
+    }
+
+    #filters_b{
+        display: flex;
+       flex-wrap: wrap;
+       margin: 0px;
+       padding-left: 4%;
+       padding-top: 10px;
+
+    }
+
+    #hebergements{
+        width: auto;
+        margin: 0px;
+        margin-left: -7%;
+        background-color: white;
+    }
+
+    #marseille_activites{
+
+        width: auto;
+        margin: 0%;
+        margin-left: 15%;
+    }
+
+    #full_content{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    #bloc_page{
+        margin: 0;
+        padding: 0;
+    }
+
+    #header_sec{
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+    }
+
+    #encre{
+        display: flex;
+        padding-top: 30px;
+        padding-left: 60px;
+        margin: 0px;
+        
+    }
+
+    #banner_log{
+        display: flex;
+        margin: 0px;
+        padding: 0px;
+        padding-right: 30%;
+        margin-bottom: -17px;
+        
+    }
+
+    #total{
+        margin-top: 25px;
+    }
+    nav a:hover{
+        border-top: none;
+        border-bottom: 4px solid #0065FC;
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+
+    #schTxt{
+        border-top: 2px solid #f2f2f2;
+        border-bottom: 2px solid #f2f2f2;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+
+
+    nav a{
+        padding-left: 80px;
+        padding-right: 55px;
+        border-bottom: 4px solid rgb(216, 216, 216);
+        padding-bottom: 20px;
+        margin-left: 15px;
+        margin-right: -40px;
+        
+        
+    }
+
+    
+
+    footer{
+        margin: 0%;
+        
+
+    }
+
+    #footer-end{
+        margin: 0%;
+        margin-right: 1440px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #a_propos{
+        margin-left: 8%;
+    }
+
+   #nos_heberg{
+       margin-left: 8%;
+   }
+
+   #assistance{
+       margin-left: 8%;
+   }
+}
