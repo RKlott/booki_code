@@ -1,4 +1,6 @@
 # booki_code
+http://booki-project.000webhostapp.com/ <- you can take a look on my project here
+
 Responsive versions : 
     1440x768 for PC ||
     992x768 for tablets ||
@@ -6,4 +8,4 @@ Responsive versions :
     
 You may use the elements inspector of your browser to consult the responsive versions of this website.
 
-Done from 0 to 100 by CESTO William.
+CESTO William.
