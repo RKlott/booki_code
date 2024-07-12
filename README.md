@@ -1,5 +1,5 @@
 # booki_code
-http://booki-project.000webhostapp.com/ <- you can take a look on my project here
+http://booki-project.000webhostapp.com/ <- you can take a look of my project here
 
 Responsive versions : 
     1440x768 for PC ||
